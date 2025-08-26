@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Notes Digitizer",
+  "description": "An AI-powered app to digitize, clean, organize, and create study materials from handwritten notes. Upload a photo of your notes, and let AI convert it to searchable text, generate summaries, and create quizzes.",
+  "requestFramePermissions": []
+}
